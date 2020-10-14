@@ -6,6 +6,25 @@ repository is for you!
 First, thanks for sharing workflowr with your colleagues. Second, below are
 various resources you can adapt and reuse for your presentations.
 
+## General notes
+
+### License requirements
+
+I usually release my content with the permissive Creative Commons Attribution
+Internal Public License ([CC-BY][]). This gives you lots of freedom. You can
+adapt and reuse as you like. The main requirement is that you attribute my
+content as the original source.
+
+### Icons from the Noun Project
+
+Recently I have been using icons provided by the [Noun
+Project](https://thenounproject.com/). These are also licensed with [CC-BY][],
+and thus must be attributed. My strategy is to have a slide at the end of the
+presentation that includes all the icons with their attributions. On any slide
+that uses an icon, I insert a link to this attribution slide. If you use only a
+few slides from one of my presentations, you can also copy the attribution
+slide, and then remove any of the icons you didn't include.
+
 ## 2020
 
 ### Why R? webinar
