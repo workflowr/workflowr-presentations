@@ -25,6 +25,12 @@ that uses an icon, I insert a link to this attribution slide. If you use only a
 few slides from one of my presentations, you can also copy the attribution
 slide, and then remove any of the icons you didn't include.
 
+### Hex sticker and logos
+
+If you're looking for the hex sticker or logos, you can find these in the
+separate repository [workflowr-assets](https://github.com/workflowr/workflowr-assets).
+It contains the logos in various styles and in multiple file formats.
+
 ## 2020
 
 ### Why R? webinar
