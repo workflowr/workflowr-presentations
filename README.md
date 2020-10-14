@@ -63,3 +63,12 @@ The workflowr paper has various figures to demonstrate key concepts.
 * Attribution: Blischak JD, Carbonetto P, and Stephens M. Creating and sharing reproducible research code the workflowr way [version 1; peer review: 3 approved]. F1000Research 2019, 8:1749 (https://doi.org/10.12688/f1000research.20843.1)
 
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
+
+## 2018
+
+### useR! 2018
+
+* Slides: https://speakerdeck.com/jdblischak/the-workflowr-r-package-a-framework-for-reproducible-and-collaborative-data-science
+* Video: https://youtu.be/GrqM2VqIQ20
+* License: [CC-BY][]
+* Attribution: John Blischak, "The workflowr R package: a framework for reproducible and collaborative data science", useR! 2018
