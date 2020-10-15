@@ -40,6 +40,10 @@ It contains the logos in various styles and in multiple file formats.
 * License: [CC-BY][]
 * Attribution: "Why R? Webinar: Reproducible research with workflowr" by John Blischak, https://bit.ly/why-r-workflowr
 
+#### Remixes:
+
+* [Jens Müller](https://github.com/jens-daniel-mueller): [2020-10-15-reproducibility_workflowr](https://docs.google.com/presentation/d/1ckkrYW_ppek7rC21-Bz0rpVPHQY75TTb4VvEguo9p0o/edit#slide=id.g96e0ce6b05_0_181)
+
 ### Bioinformatics Data Reproducibility Bootcamp at Penn State
 
 * Slides (5-24): https://bit.ly/bdr-slides-day3
