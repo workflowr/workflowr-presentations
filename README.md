@@ -31,6 +31,15 @@ If you're looking for the hex sticker or logos, you can find these in the
 separate repository [workflowr-assets](https://github.com/workflowr/workflowr-assets).
 It contains the logos in various styles and in multiple file formats.
 
+## 2021
+
+### Toronto Workshop on Reproducibility
+
+* Slides: https://bit.ly/workflowr-toronto
+* Video: https://youtu.be/RrcaGukYDyE
+* License: [CC-BY][]
+* Attribution: “2021 Toronto Workshop on Reproducibility: Facilitating reproducible and open research with workflowr and workflowr.io” by John Blischak, https://bit.ly/workflowr-toronto
+
 ## 2020
 
 ### Why R? webinar
