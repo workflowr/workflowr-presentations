@@ -40,6 +40,10 @@ It contains the logos in various styles and in multiple file formats.
 * License: [CC-BY][]
 * Attribution: “2021 Toronto Workshop on Reproducibility: Facilitating reproducible and open research with workflowr and workflowr.io” by John Blischak, https://bit.ly/workflowr-toronto
 
+#### Remixes:
+
+* [Philipp Bayer](https://github.com/philippbayer/): [2021-06 resbaz Perth](https://docs.google.com/presentation/d/1HobRiOmb5Ox00fkCZM2Xlg8hDBbB37GF-W5MAFP7rZM/edit?usp=sharing)
+
 ## 2020
 
 ### Why R? webinar
