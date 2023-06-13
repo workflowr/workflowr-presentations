@@ -52,7 +52,7 @@ after the initial poster to walk through each section separately.
 * Slides: https://bit.ly/workflowr-toronto
 * Video: https://youtu.be/RrcaGukYDyE
 * License: [CC-BY][]
-* Attribution: “2021 Toronto Workshop on Reproducibility: Facilitating reproducible and open research with workflowr and workflowr.io” by John Blischak, https://bit.ly/workflowr-toronto
+* Attribution: "2021 Toronto Workshop on Reproducibility: Facilitating reproducible and open research with workflowr and workflowr.io" by John Blischak, https://bit.ly/workflowr-toronto
 
 #### Remixes:
 
