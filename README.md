@@ -31,6 +31,20 @@ If you're looking for the hex sticker or logos, you can find these in the
 separate repository [workflowr-assets](https://github.com/workflowr/workflowr-assets).
 It contains the logos in various styles and in multiple file formats.
 
+## 2023
+
+### R/Medicine
+
+This presentation was a virtual poster. The dimensions had to be A0, and we were
+encouraged to create a single slide like a traditional poster. However, this was
+very hard to read in the SpatialChat platform, so I also included extra slides
+after the initial poster to walk through each section separately.
+
+* Slides (virtual poster): https://bit.ly/r-med-2023-workflowr
+* [Event page](https://rmed2023a.sched.com/event/f195298dca3d29913bb285025bff1839)
+* License: [CC-BY][]
+* Attribution: "R/Medicine 2023: Facilitating reproducible and open research with workflowr and workflowr.io" by John Blischak, https://bit.ly/r-med-2023-workflowr
+
 ## 2021
 
 ### Toronto Workshop on Reproducibility
