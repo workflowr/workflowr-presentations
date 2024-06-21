@@ -31,6 +31,36 @@ If you're looking for the hex sticker or logos, you can find these in the
 separate repository [workflowr-assets](https://github.com/workflowr/workflowr-assets).
 It contains the logos in various styles and in multiple file formats.
 
+## 2024
+
+### Stanford STATS 352
+
+I was invited by [Balasubramanian Narasimhan][naras] to give two guest lectures
+on reproducible research and workflowr for the course [STATS 352][stats352],
+_Topics in Computing for Data Science_, a survey course he co-teaches with John
+Chambers.
+
+The first lecture was essentially a remix of my [previous
+presentation](#why-r-webinar) for the Why R? webinar series. I added some extra
+background slides to the introduction about the lack of computational
+reproducibility of published scientific articles. I also added the slides on
+[workflowr.io][wio] from my [previous
+presentation](#toronto-workshop-on-reproducibility) at the Toronto Workshop on
+Reproducibility.
+
+The second lecture was more interactive. The presentation mostly consisted of
+updated slides from the [UserR! 2020 tutorial](#user-2020). Since it was short
+and mostly unchanged, I didn't create a shareable link for it.
+
+* Slides: https://bit.ly/2024-stanford-workflowr
+* License: [CC-BY][]
+* Attribution: "2024 Stanford STATS 352: Reproducible research with workflowr"
+  by John Blischak, https://bit.ly/2024-stanford-workflowr
+
+[naras]: https://naras.su.domains/
+[stats352]: https://stats352.stanford.edu/schedule/
+[wio](https://workflowr.io)
+
 ## 2023
 
 ### R/Medicine
