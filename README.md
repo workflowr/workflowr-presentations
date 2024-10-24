@@ -59,7 +59,7 @@ and mostly unchanged, I didn't create a shareable link for it.
 
 [naras]: https://naras.su.domains/
 [stats352]: https://stats352.stanford.edu/schedule/
-[wio](https://workflowr.io)
+[wio]: https://workflowr.io
 
 ## 2023
 
